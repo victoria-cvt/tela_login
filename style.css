@@ -73,7 +73,7 @@ body{
 .btn-primary{
     background-color: transparent;
     border: 1px solid #fff;
-    transition: background-color 0.50s;
+    transition: background-color 0.20s;
   
 }
 .btn-primary:hover{
@@ -83,7 +83,7 @@ body{
 .btn-second{
     background-color: #58af9b;
     border: 1px solid #58af9b;
-    transition: background-color 0.50s;
+    transition: background-color 0.20s;
 }
 .btn-second:hover{
     background-color: #fff;
